@@ -1,0 +1,23 @@
+.navbar .nav-item .nav-link{
+    color: white;
+}
+
+header{
+    background: url("../img/sicodelico.png");
+    background-size: cover;
+    min-height: 600px;
+    position: relative;
+}
+
+.fondo{
+    position: absolute;
+    background: rgba(234, 3, 255, 0.705);
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+
+.form-control, .btn{
+    border-radius: 0;
+}
